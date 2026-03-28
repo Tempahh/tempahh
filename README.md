@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on webapps with next.js and typescript<br>👯 I’m looking to collaborate on my fintech project 'Pressmoney (repo on my page)'<br>⚡ Fun fact: I think programming is 50% ideation, 30% DSA and 20% fun (hehe)
+🔭 I’m currently loosing my mind, but I love it!<br? 
 
 
 ## 🌐 Socials:
