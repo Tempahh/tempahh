@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently loosing my mind, but I love it!<br? 
+🔭 I’m currently loosing my mind, but I love it!<br> 
 
 
 ## 🌐 Socials:
