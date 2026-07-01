@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently loosing my mind, but I love it!<br> 
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tempahsgram) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Prosper Orjiogo) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tempah_thealien) 
 
