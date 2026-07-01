@@ -1,52 +1,120 @@
-Prosper Orjiogo He/Him • No 12 Adejoke Sokoya Street, Ikeja, Lagos • 08140678421 Plance991@gmail.com • linkedin.com/in/tempah1999 • github.com/tempahh
- 
-Software Engineer | Fullstack & DevOps Enthusiast I build backend systems so solid you could rest your app’s uptime on them—and now, I also craft frontend experiences that feel buttery smooth. Whether it’s NestJS under the hood or Next.js on the surface, I bring a fullstack mindset to every line of code. I enjoy system design the way some folks enjoy puzzles, give me a messy set of requirements and I’ll architect something that scales, performs, and doesn’t crash when someone presses F5 too hard. And if I don’t know it yet? I’ll learn it faster than you can say “async await” (with types, of course).
- 
-Experience That Shaped My Engineering Mindset
-HNG Internship Program Backend Developer Intern • (1/2025 - 4/2025)
-• Contributed to multiple backend projects, implementing RESTful APIs and integrating BaaS solutions like Appwrite, Firebase, and Supabase.
-• Collaborated with cross-functional teams to develop scalable backend services using NestJS.
-• Demonstrated rapid learning by quickly adapting to new technologies and frameworks as required by project demands.
-• Participated in system design discussions and wrote clean, modular code.
-• Learned how to debug in the dark (literally—thanks NEPA).
-Dream Mesh (Now Nurture Tech) | Lagos Software Engineer (Intern) • 05/2017 - 09/2017
-• Collaborated with cross-functional teams to resolve software issues, leading to a 95% uptime improvement.
-• Developed object-oriented, scalable web applications, ensuring stability and efficiency.
-• Gained hands-on experience in backend architecture and software lifecycle best practices.
-• Basically learned how to break less stuff—progress!
-Servest Nigeria | Lagos Technician/Network Systems Administrator • 01/2022 - 06/2024
-• Configured and maintained network infrastructure, significantly improving operational efficiency.
-• Managed Designa access control systems, ensuring seamless security and access control.
-• Implemented disaster recovery plans, preventing data loss and ensuring uninterrupted services (because nobody likes unexpected downtime).
-• Conducted audits to ensure compliance, earning recognition from regulatory bodies (basically, I made the rules work for us).
-• Became the go-to troubleshooter—if something broke, I fixed it. If it didn’t break, I still kept an eye on it, just in case. 
-Personal & Freelance Projects Frontend & Fullstack Development • Ongoing
-• Built and deployed fullstack applications using React, Next.js, and NestJS—the holy trinity of modern web development (in my toolbox, at least).
-• collaborating on hng_boilerplate_nestjs and developing eLearningTempah to demonstrate backend architecture, route handling, and API design using NestJS and Express.
-• Created Tempah_Banking, a fullstack TypeScript project built with Next.js, showcasing both frontend logic and server-side capabilities, including API integration and user authentication.
-• Built firebaseapp to explore real-time data handling and authentication using Firebase, proving that serverless doesn’t mean soulless.
-• Integrated BaaS solutions like Appwrite, Firebase, and Supabase to move fast without reinventing the backend wheel.
-• Leveraged server-side rendering and API routes in Next.js to build fast, SEO-friendly, production-grade apps.
-• Designed systems that actually make sense (yes, I’m into system design and yes, I enjoy it).
-• Styled user interfaces with Tailwind CSS and material UI—because nobody likes apps that look like 2012.
- 
-Technical Skills & Expertise
-• Languages: JavaScript (ES6+), TypeScript, Python, C
-• Frontend: React, Next.js, Tailwind CSS, Redux, Material UI
-• Backend: NestJS, Node.js, REST APIs, Appwrite, Firebase, Supabase
-• DevOps & Infrastructure: Docker, Azure, CI/CD pipelines
-• Tools & Other Stuff: Git, GitHub Actions, Vercel, Netlify
-• Core Strengths: Rapid learning, system design, debugging the undebuggable, fixing what’s not broken (just better)
- 
-Certifications
-• ALX Software Engineering (06/2023 - 08/2024)
-.HNG Backend Development Track (01/2025 - 04/2025)
- 
-Education
-• B.Sc Computer Science, Babcock University, Ilishan-Remo, Ogun (2015 - 2020)
-• WASSCE, Speedway Group of Schools, Ojodu, Lagos (2009 - 2015)
- 
-PS: If you’ve made it this far, I appreciate the scroll stamina. You might as well check out my GitHub and LinkedInwhile you’re here—you know, just in case you're hiring someone who builds and breaks things (strategically, of course).
- 
- 
-
+ORJIOGO PROSPER CHINEDU
+Backend Developer | Systems Integration Engineer
+Ikeja, Lagos, Nigeria | +234 814 067 8421 | Plance991@gmail.com
+LinkedIn: linkedin.com/in/tempah1999 | GitHub: github.com/tempahh
+PROFESSIONAL SUMMARY
+I am a backend Developer with experience building scalable APIs, enterprise integrations,
+and business automation solutions using TypeScript, NestJS, and Python. Skilled in
+designing event-driven architectures, integrating ERP platforms including Zoho and Odoo
+with third-party services such as Shopify and Microsoft 365, and developing reliable
+backend systems that improve operational efficiency. Strong background in enterprise IT,
+identity and access management, Microsoft 365 administration, and network
+infrastructure.
+TECHNICAL SKILLS
+Backend: JavaScript, TypeScript, Node.js, NestJS, Python, REST APIs, Webhooks, OAuth
+2.0, Event-Driven Architecture, API Integration
+Databases & Backend Services: Firebase, Appwrite, Supabase, Prisma
+ERP & Business Systems: Zoho CRM, Zoho Desk, Zoho Forms, Odoo ERP, Shopify API
+Microsoft & Cloud: Microsoft 365, Microsoft Entra ID, Exchange Online, SharePoint
+Online, Teams Admin Center, OneDrive
+Tools: Git, GitHub, Docker, Vercel, VS Code
+Infrastructure: Routers, Switches, LAN Administration, Access Control Systems, Backup
+& Recovery
+PROFESSIONAL EXPERIENCE
+AVETIUM CONSULT | Lagos
+Backend Developer | April 2026 – Present
+• Develop scalable backend services and RESTful APIs using TypeScript and NestJS.
+• Design event-driven architectures and webhook-based enterprise integrations.
+• Build automation services that validate, transform, and synchronize data across
+business systems.
+• Implement secure authentication and authorization using OAuth and token-based
+security models.
+• Design asynchronous workflows to improve application reliability and scalability.
+• Collaborate with stakeholders to translate business requirements into
+maintainable backend solutions.
+• Maintain technical documentation, troubleshoot integration issues, and optimize
+API performance.
+Software Systems Integration Engineer | September 2025 – March 2026
+• Designed and deployed ERP integrations across Zoho and Odoo ecosystems.
+• Integrated Shopify with ERP platforms to automate order processing and inventory
+synchronization.
+• Architected webhook-driven workflows enabling near real-time communication
+between systems.
+• Built Python automation services for event validation, transformation, and
+processing.
+• Integrated ERP platforms with attendance and access-control hardware systems.
+• Reduced manual reconciliation through automated synchronization processes.
+• Resolved API limitations, data integrity conflicts, and payload inconsistencies while
+documenting integration architecture and monitoring processes.
+TEKNOWLEDGE | Lagos
+Microsoft 365 Support Engineer | March 2025 – August 2025
+• Provided enterprise support for Microsoft 365 services including Exchange Online,
+Teams, SharePoint Online, and OneDrive.
+• Resolved escalated issues involving identity management, mail flow, access
+control, and collaboration services.
+• Worked extensively with Microsoft Entra ID, Exchange Admin Center, Compliance
+Portal, and Teams Admin Center.
+• Assisted customers with migrations, tenant administration, compliance
+requirements, and troubleshooting.
+• Recommended security, governance, and productivity improvements based on
+customer environment assessments.
+HNG INTERNSHIP PROGRAM
+Backend Developer Intern | January 2025 – April 2025
+• Developed RESTful APIs and backend services using NestJS.
+• Integrated Backend-as-a-Service platforms including Firebase, Appwrite, and
+Supabase.
+• Collaborated with cross-functional teams to deliver scalable backend solutions.
+• Participated in architecture planning, system design discussions, and code
+reviews.
+• Wrote clean, modular, and maintainable code following software engineering best
+practices.
+SERVEST NIGERIA | Lagos
+Technician / Network Systems Administrator | January 2022 – June 2024
+• Managed routers, switches, and network infrastructure to ensure reliable
+connectivity.
+• Administered access-control systems and maintained continuous system
+availability.
+• Implemented backup and recovery procedures to reduce operational risks.
+• Provided technical support for hardware, software, and networking issues.
+• Trained staff on digital tools and supported IT operations during meetings and
+company events.
+DREAM MESH (NOW NURTURE TECH) | Lagos
+Software Engineering Intern | May 2017 – September 2017
+• Assisted in resolving software and network issues to improve system reliability.
+• Created wireframes and design assets supporting frontend development.
+• Contributed to backend architecture and internal development tools.
+• Participated in testing, troubleshooting, and deployment support activities.
+PROJECTS
+ERP Integration Platform
+Designed integrations connecting Zoho, Odoo, Shopify, and enterprise hardware systems.
+• Built webhook-driven workflows and automated synchronization processes.
+• Developed secure API integrations supporting business process automation.
+eLearningTempha
+NestJS-based learning platform backend.
+• Implemented authentication, route management, and API endpoints.
+• Applied scalable backend architecture and development best practices.
+Tempah Banking
+Full-stack TypeScript application built with Next.js.
+• Implemented user authentication, API integrations, and server-side business logic.
+• Developed reusable frontend and backend components.
+Firebase App
+Real-time application using Firebase services.
+• Implemented Firebase Authentication and Firestore integration.
+• Explored serverless architecture and event-driven workflows.
+HNG Boilerplate NestJS
+Collaborative backend engineering project.
+• Contributed to reusable architecture and API development standards.
+• Improved scalability, maintainability, and project structure.
+EDUCATION
+Bachelor of Science (B.Sc.), Computer Science
+Babcock University, Ilishan-Remo, Ogun State | 2015 – 2020
+West African Senior School Certificate Examination (WASSCE)
+Speedway Group of Schools, Ojodu, Lagos | 2009 – 2015
+CORE COMPETENCIES
+Backend Development • API Design & Development • Systems Integration • ERP
+Integration • Event-Driven Architecture • Business Process Automation • Identity & Access
+Management • Cloud Administration • Technical Documentation • Technical
+Troubleshooting • Network Administration • Cross-Functional Collaboration • Stakeholder
+Communication
+REFERENCES
+Available upon request.
